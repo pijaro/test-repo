@@ -1,11 +1,11 @@
 {
-    "repo_name": "",
+    "repo_name": "test-repo",
     "origin": "test-repo",
     "repo_uri": "https://raw.githubusercontent.com/pawelbudziszewski/test-repo/main",
     "summary": "",
     "additional_info": "",
     "last_updated": "",
     "templates": [
-        "https://github.com/pawelbudziszewski/test-repo/Templates/Ros2ProjectTemplate"
+        "https://github.com/pawelbudziszewski/test-repo.git/Templates/Ros2ProjectTemplate"
     ]
 }
