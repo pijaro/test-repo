@@ -4,7 +4,7 @@
     "origin_url": "https://github.com/o3de/o3de-extras",
     "license": "https://github.com/o3de/o3de-extras/tree/development/Templates/Ros2ProjectTemplate/Template/LICENSE.txt",
     "origin_uri": "https://github.com/pijaro/test-repo/releases/download/1.0.0/Ros2ProjectTemplate-1.0.0.zip",
-    "sha256": "404300a35d30efb8957c8a58b9912ccc1396b3b2baefe0abd7e66b57c90245be",
+    "sha256": "005a9b66ec1b3f182f5871d08497f703e3e9b714098db62bfdfaff539833faa7",
     "repo_uri": "https://raw.githubusercontent.com/pijaro/test-repo/master",
     "display_name": "Ros2ProjectTemplate",
     "summary": "Template for ROS2 projects.",
