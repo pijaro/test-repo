@@ -379,27 +379,27 @@
             "isTemplated": true
         },
         {
-            "file": "examples/slam_navigation/launch/config/config.rviz",
+            "file": "../examples/slam_navigation/launch/config/config.rviz",
             "isTemplated": false
         },
         {
-            "file": "examples/slam_navigation/README.md",
+            "file": "../examples/slam_navigation/README.md",
             "isTemplated": false
         },
         {
-            "file": "examples/slam_navigation/launch/config/navigation_params.yaml",
+            "file": "../examples/slam_navigation/launch/config/navigation_params.yaml",
             "isTemplated": false
         },
         {
-            "file": "examples/slam_navigation/launch/config/slam_params.yaml",
+            "file": "../examples/slam_navigation/launch/config/slam_params.yaml",
             "isTemplated": false
         },
         {
-            "file": "examples/slam_navigation/launch/navigation.launch.py",
+            "file": "../examples/slam_navigation/launch/navigation.launch.py",
             "isTemplated": false
         },
         {
-            "file": "examples/slam_navigation/launch/slam.launch.py",
+            "file": "../examples/slam_navigation/launch/slam.launch.py",
             "isTemplated": false
         }
     ],
