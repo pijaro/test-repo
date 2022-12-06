@@ -3,7 +3,7 @@
     "origin": "Open 3D Engine Extras",
     "origin_url": "https://github.com/o3de/o3de-extras",
     "license": "https://github.com/o3de/o3de-extras/tree/development/Templates/Ros2ProjectTemplate/Template/LICENSE.txt",
-    "repo_uri": "https://github.com/pijaro/test-repo/archive/refs/tags/1.0.0.zip"
+    "origin_uri": "https://github.com/pijaro/test-repo/archive/refs/tags/1.0.0.zip"
     "display_name": "Ros2ProjectTemplate",
     "summary": "Template for ROS2 projects.",
     "canonical_tags": [],
